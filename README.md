@@ -1,3 +1,5 @@
+Note: deprecated over https://github.com/sluongng/nogo-analyzer
+
 # NoGo Analyzer GolangCI-Lint
 
 This is a code generator tool that helps generate golang packages.
